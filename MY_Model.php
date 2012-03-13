@@ -8,6 +8,8 @@
  * are needed in an application.
  *
  * @author Md Emran Hasan <phpfour@gmail.com>
+ * @version 1.1
+ * @since 2009
  */
 class MY_Model extends Model
 {
